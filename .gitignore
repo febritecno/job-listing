@@ -1,0 +1,11 @@
+# dependencies
+/server/node_modules
+/client/node_modules
+
+.DS_Store
+/server/.env
+/client/.env
+
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
